@@ -1,0 +1,3 @@
+class-ds/**/venv
+.idea
+.env
